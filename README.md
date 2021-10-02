@@ -1,6 +1,6 @@
 # Sorting Encrypted Vector using Obligious Programming 
 ## Summary
-This projcet is an example of obligious programming at work: sort a vector of encrypted objects without revealing sensetive information. The sorting algorith in the code uses only the interface of Secret class. Once the vector is sorterd, decrypt function is used to decrypt the message and output. 
+This projcet is an example of oblivious programming at work: sort a vector of encrypted objects without revealing sensetive information. The sorting algorith in the code uses only the interface of Secret class. Once the vector is sorterd, decrypt function is used to decrypt the message and output. 
 
 ### Installation
 IDE : Xcode Version 10.2.1 (10E1001) \
